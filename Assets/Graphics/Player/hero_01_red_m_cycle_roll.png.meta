@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 2a78cfb9590e2a64a8cd8a2a7303d98e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1541903982441766661
+    second: hero_01_red_m_cycle_roll_0
+  - first:
+      213: 3835993135346473270
+    second: hero_01_red_m_cycle_roll_1
+  - first:
+      213: 864076435084288668
+    second: hero_01_red_m_cycle_roll_2
+  - first:
+      213: -8225497260028251570
+    second: hero_01_red_m_cycle_roll_3
+  - first:
+      213: -5344290477493022672
+    second: hero_01_red_m_cycle_roll_4
+  - first:
+      213: 5097920179026446220
+    second: hero_01_red_m_cycle_roll_5
+  - first:
+      213: 725704454637964617
+    second: hero_01_red_m_cycle_roll_6
+  - first:
+      213: 2531484313657751110
+    second: hero_01_red_m_cycle_roll_7
+  - first:
+      213: -2247092115725523967
+    second: hero_01_red_m_cycle_roll_8
+  - first:
+      213: 5862943529336822026
+    second: hero_01_red_m_cycle_roll_9
+  - first:
+      213: -8960464073737765795
+    second: hero_01_red_m_cycle_roll_10
+  - first:
+      213: 5789066469804361414
+    second: hero_01_red_m_cycle_roll_11
+  - first:
+      213: -5978470284203135769
+    second: hero_01_red_m_cycle_roll_12
+  - first:
+      213: 7203939889404880561
+    second: hero_01_red_m_cycle_roll_13
+  - first:
+      213: 4660849380879628714
+    second: hero_01_red_m_cycle_roll_14
+  - first:
+      213: -472270224676879249
+    second: hero_01_red_m_cycle_roll_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf06cc05f7e0a9ae0800000000000000
+      internalID: -1541903982441766661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 97
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639d921ce6f2c3530800000000000000
+      internalID: 3835993135346473270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c922cfb80f0ddfb00800000000000000
+      internalID: 864076435084288668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 97
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42311392d929dd80800000000000000
+      internalID: -8225497260028251570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0309680402445d5b0800000000000000
+      internalID: -5344290477493022672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87ca2494637fb640800000000000000
+      internalID: 5097920179026446220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d4d964b58321a00800000000000000
+      internalID: 725704454637964617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6463b062293a12320800000000000000
+      internalID: 2531484313657751110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104699850a9b0d0e0800000000000000
+      internalID: -2247092115725523967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09db44a31c5d5150800000000000000
+      internalID: 5862943529336822026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cf536466906a380800000000000000
+      internalID: -8960464073737765795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 34
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c640d15845e65050800000000000000
+      internalID: 5789066469804361414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ece7d9a3f4380da0800000000000000
+      internalID: -5978470284203135769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6ae3b492989f360800000000000000
+      internalID: 7203939889404880561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9fde251d9aea040800000000000000
+      internalID: 4660849380879628714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_01_red_m_cycle_roll_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64042c9bb82279f0800000000000000
+      internalID: -472270224676879249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hero_01_red_m_cycle_roll_0: -1541903982441766661
+      hero_01_red_m_cycle_roll_1: 3835993135346473270
+      hero_01_red_m_cycle_roll_10: -8960464073737765795
+      hero_01_red_m_cycle_roll_11: 5789066469804361414
+      hero_01_red_m_cycle_roll_12: -5978470284203135769
+      hero_01_red_m_cycle_roll_13: 7203939889404880561
+      hero_01_red_m_cycle_roll_14: 4660849380879628714
+      hero_01_red_m_cycle_roll_15: -472270224676879249
+      hero_01_red_m_cycle_roll_2: 864076435084288668
+      hero_01_red_m_cycle_roll_3: -8225497260028251570
+      hero_01_red_m_cycle_roll_4: -5344290477493022672
+      hero_01_red_m_cycle_roll_5: 5097920179026446220
+      hero_01_red_m_cycle_roll_6: 725704454637964617
+      hero_01_red_m_cycle_roll_7: 2531484313657751110
+      hero_01_red_m_cycle_roll_8: -2247092115725523967
+      hero_01_red_m_cycle_roll_9: 5862943529336822026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

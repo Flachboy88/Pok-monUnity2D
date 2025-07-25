@@ -1,0 +1,40 @@
+// Exemple : Déclencher l'animation lors d'une collision
+void OnTriggerEnter2D(Collider2D other)
+{
+    if (other.CompareTag("Player"))
+    {
+        var tile = tilemap.GetTile<AnimatedTile>(tilePosition);
+        if (tile != null)
+        {
+            tile.triggerPlay = true;
+            tilemap.RefreshTile(tilePosition);
+        }
+    }
+}
+
+
+
+
+// Exemple : Boucler l'animation en continu
+void Start()
+{
+    var tile = tilemap.GetTile<AnimatedTile>(tilePosition);
+    if (tile != null)
+    {
+        tile.playMode = AnimatedTile.PlayMode.Loop;
+        tilemap.RefreshTile(tilePosition);
+    }
+}
+
+
+
+// Exemple : Réinitialiser l'animation
+void ResetAnimation()
+{
+    var tile = tilemap.GetTile<AnimatedTile>(tilePosition);
+    if (tile != null)
+    {
+        tile.triggerPlay = false;
+        tilemap.RefreshTile(tilePosition);
+    }
+}
